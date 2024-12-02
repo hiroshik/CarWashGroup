@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CarWashGroup/static/css/main.9eac2e77.css",
+    "main.js": "/CarWashGroup/static/js/main.35445465.js",
+    "static/media/car-wash.gif": "/CarWashGroup/static/media/car-wash.e4522bb0ea18775d1fb1.gif",
+    "static/media/car-wash.png": "/CarWashGroup/static/media/car-wash.d0d8ce68a3d324d947df.png",
+    "index.html": "/CarWashGroup/index.html",
+    "main.9eac2e77.css.map": "/CarWashGroup/static/css/main.9eac2e77.css.map",
+    "main.35445465.js.map": "/CarWashGroup/static/js/main.35445465.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9eac2e77.css",
+    "static/js/main.35445465.js"
+  ]
+}
